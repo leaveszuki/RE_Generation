@@ -1,0 +1,5 @@
+(1)	combine old XTRACT and new XTRACTPro into one project
+(2)	implement export cost matrix to .CSV and run optimization python program directly.
+(3)     implement simplification of regular expressions, including remove repetitive brackets. Then fix the bug of the absence of brackets between regular expression segment and the head sign^ and the tail sign $.(2017/11/12)
+(4)     seperate the cost file .CSV into two different files r.CSV and s.CSV that is easy to use for genetic algorithm based optimization.
+
