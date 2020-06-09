@@ -1,0 +1,7 @@
+G:\GJTStringRuleMining\GJTStringRuleMining\bin\Release\GJTStringRuleMining.exe
+G:\GJTStringRuleMining\GJTStringRuleMining\bin\Release\GJTStringRuleMining.pdb
+G:\GJTStringRuleMining\GJTStringRuleMining\obj\x86\Release\GJTStringRuleMining.MainForm.resources
+G:\GJTStringRuleMining\GJTStringRuleMining\obj\x86\Release\GJTStringRuleMining.Properties.Resources.resources
+G:\GJTStringRuleMining\GJTStringRuleMining\obj\x86\Release\GJTStringRuleMining.csproj.GenerateResource.Cache
+G:\GJTStringRuleMining\GJTStringRuleMining\obj\x86\Release\GJTStringRuleMining.exe
+G:\GJTStringRuleMining\GJTStringRuleMining\obj\x86\Release\GJTStringRuleMining.pdb
